@@ -10,3 +10,7 @@ nav a {
   margin: 0 10px;
   text-decoration: none;
 }
+body.dark {
+  background-color: #222;
+  color: #eee;
+}
