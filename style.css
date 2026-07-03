@@ -14,3 +14,13 @@ body.dark {
   background-color: #222;
   color: #eee;
 }
+@media (max-width: 600px) {
+  body {
+    font-size: 14px;
+    margin: 10px;
+  }
+  nav a {
+    display: block;
+    margin: 5px 0;
+  }
+}
